@@ -1,0 +1,3 @@
+prepare cd www/local/; vcomposer install; cd ../..
+rsync www/local/vendor
+cleanup cd www/local/php_interface; php cli.php after_deploy; cd ../../..

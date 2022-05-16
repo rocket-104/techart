@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001652344865';
+$dateexpire = '001652380865';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:6:{i:1;a:7:{s:2:"ID";s:1:"1";s:11:"PROPERTY_ID";s:1:"3";s:5:"VALUE";s:20:"Автобусный";s:3:"DEF";s:1:"N";s:4:"SORT";s:3:"500";s:6:"XML_ID";s:32:"79e462b6b7b5af73571f3c237cfb19ec";s:6:"TMP_ID";N;}i:2;a:7:{s:2:"ID";s:1:"2";s:11:"PROPERTY_ID";s:1:"3";s:5:"VALUE";s:10:"Пеший";s:3:"DEF";s:1:"N";s:4:"SORT";s:3:"500";s:6:"XML_ID";s:32:"e95b7bfd0a02f164f04b1d8202fd861f";s:6:"TMP_ID";N;}i:3;a:7:{s:2:"ID";s:1:"3";s:11:"PROPERTY_ID";s:1:"3";s:5:"VALUE";s:14:"Морской";s:3:"DEF";s:1:"N";s:4:"SORT";s:3:"500";s:6:"XML_ID";s:32:"0930dfcef5626662face4b1e05a01ee1";s:6:"TMP_ID";N;}i:4;a:7:{s:2:"ID";s:1:"4";s:11:"PROPERTY_ID";s:1:"3";s:5:"VALUE";s:12:"Конный";s:3:"DEF";s:1:"N";s:4:"SORT";s:3:"500";s:6:"XML_ID";s:32:"84de51452cedde293dbf714ba9bf93d4";s:6:"TMP_ID";N;}i:5;a:7:{s:2:"ID";s:1:"5";s:11:"PROPERTY_ID";s:1:"4";s:5:"VALUE";s:6:"Нет";s:3:"DEF";s:1:"Y";s:4:"SORT";s:3:"500";s:6:"XML_ID";s:32:"ba760aacfa15f955b6727fe7fcb56590";s:6:"TMP_ID";N;}i:6;a:7:{s:2:"ID";s:1:"6";s:11:"PROPERTY_ID";s:1:"4";s:5:"VALUE";s:4:"Да";s:3:"DEF";s:1:"N";s:4:"SORT";s:3:"500";s:6:"XML_ID";s:32:"059bb7890fbd431f4debfd642fe608d5";s:6:"TMP_ID";N;}}}';
+return true;
+?>

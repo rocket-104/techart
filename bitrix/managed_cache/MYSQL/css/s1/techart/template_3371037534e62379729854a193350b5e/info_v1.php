@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/local/templates/techart/css/styles.css" => "16518231159774","/local/templates/techart/css/styles-adaptive.css" => "16509766113888","/local/templates/techart/css/font-awesome.min.css" => "152991047831000",]; ?>

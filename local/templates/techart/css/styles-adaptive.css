@@ -1,0 +1,254 @@
+/*- - - M E D I A - - -*/
+@media screen and (min-width: 1100px) and (max-width: 1200px) {
+    .subheader div:nth-child(1) {
+		margin: 0px 10px 0px 0px;
+	}
+	.subheader > div:nth-child(3) {
+    padding: 0px 0px 0px 10px;
+	}
+	.subheader > div:nth-child(1) a {
+		color: #fff;
+		white-space: normal;;
+	}
+	.subheader div:nth-child(2) span {
+		margin: 0px 10px 0px 0px;
+	}
+	header .logo {
+		width: 620px;
+	}
+	.block .pic {
+		height: 140px;
+	}
+	.label {
+		width: 15%;
+	}
+
+}
+@media  (min-width: 1000px) and (max-width: 1200px) {
+    .videoBlock h1 {
+        font-size: 30px;
+    }
+	.text  div  {
+		width: 100%;
+	}
+    content .text {
+/*     height: 190px; */
+
+        padding: 30px 5vw 0 5vw;
+    }
+    .insite {
+        margin: 0 0% 0 6%;
+    }
+    .public .line > div {
+        width: 100%;
+    }
+    .block  {
+        width: 100%;
+    }
+    .block p {
+        display: none;
+    }
+	.block .pic {
+		height: 140px;
+	}
+	.block > div:last-child {
+		width: 55%;
+	}
+	.label {
+		width: 15%;
+	}
+
+
+
+}
+@media  (min-width: 800px) and (max-width: 999px) {
+
+	.videoBlock h1 {
+        font-size: 20px;
+    }
+
+    .triple > div  {
+        width: 50%;
+        margin: 0 0 40px 0;
+    }
+
+    .block p {
+        display: block;
+    }
+	.block .pic {
+		height: 180px;
+	}
+    .line  {
+        width: 100%;
+    }
+    .double > div {
+        width: 94%;
+        padding: 10px 20px;
+    }
+	.label {
+		width: 20%;
+	}
+	.block  {
+		margin-bottom: 10px;
+    }
+}
+@media  (min-width: 730px) and (max-width: 799px) {
+
+    .logo div:last-child {
+        width: 350px;
+    }
+    .triple > div {
+        width: 98%;
+    }
+	.block  {
+		margin-bottom: 10px;
+    }
+}
+
+
+
+@media screen and (min-width: 1401px) {
+    .videoBlock h1 {
+        font-size: 36px;
+    }
+}
+@media   (min-width: 1250px) and (max-width: 1400px)    {
+    .videoBlock h1 {
+        font-size: 30px;
+    }
+    .container div:first-child {
+        font-size: 17px;
+    }
+}
+
+@media screen and (min-width: 1201px) {
+
+    .content .text {
+        padding: 30px 23vw 0 23vw;
+    }
+	.text  div {
+        max-width: 500px;
+        padding: 0 20px ;
+	}
+}
+@media screen and  (max-width: 1250px) {
+    .container div:first-child {
+        display: none
+    }
+    header .space  {
+		width: 50%;
+    }
+	.copyright {
+		order: 0;
+	}
+	.allSites {
+		order: 1;
+	}
+	.contacts {
+		order: 2;
+	}
+	.subscribe {
+		order: 3;
+	}
+
+}
+@media  (max-width: 1100px) {
+    .subheader div:nth-child(1), .subheader div:nth-child(2) {
+        display: none;
+    }
+
+}
+@media screen and  (max-width: 1000px) {
+	content .text {
+        display: block;
+        padding: 30px 1 0 1%;
+    }
+    .bigImage {
+        display: none;
+    }
+    .text > div {
+        padding: 10px 5%;
+    }
+    .text div {
+        max-width: 100%;;
+    }
+	.triple {
+		padding: 0 5%;
+	}
+    .double {
+        display: block;
+    }
+    .block  {
+        width: 100%;
+    }
+
+    .insite {
+        margin: 0;
+    }
+/*    .line  {
+        width: 94%;
+    }*/
+    .double > div {
+        width: 94%;
+        padding: 10px 20px;
+    }
+	.subscribe {
+		order: 2;
+	}
+	.allSites {
+		order: 3;
+	}
+}
+@media screen and (max-width: 799px)  {
+	.videoBlock h1 {
+        font-size: 20px;
+    }
+    .block .pic {
+        height: 59vw;
+        width: 100%;
+		margin: 17px 0 0;
+    }
+	.block p {
+        display: none;
+    }
+	 .double {
+		padding: 0 1%;
+	 }
+	 .double > div {
+		width: 92%;
+	 }
+	 .double > div, .line {
+        width: 98%;
+        padding: 0;
+    }
+    .public .line > div {
+        width: 100%;
+        margin: 0px 12px 18px;
+    }
+    .label {
+        width: 14%;
+    }
+    .triple > div {
+        width: 100%;
+        max-width: 100%;
+    }
+	.pub {
+		width: 84%;
+	}
+}
+@media  (max-width: 729px) {
+    .videoBlock {
+         height: 55vw;
+    }
+	.videoBlock h1 {
+        display: none;
+    }
+    .logo div:last-child {
+        display: none;
+    }
+    .text h1 {
+        display: block;
+        margin: 14vw 3% 3vw 3%;
+    }
+
+}

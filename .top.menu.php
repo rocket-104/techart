@@ -1,0 +1,53 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"О «Текарт»", 
+		"/about/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Хронология", 
+		"/hronology/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Туры", 
+		"/tours/catalog/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Маркетинг", 
+		"", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Отраслевые практики", 
+		"", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Лаборатория инноваций", 
+		"", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Корзина", 
+		"/personal/orders/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

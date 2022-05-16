@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/local/templates/techart/scripts/click.js" => "1650814244940",]; ?>
